@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
+* [Page1.xaml](./CS/WpfApplication1/Page1.xaml) (VB: [Page1.xaml](./VB/WpfApplication1/Page1.xaml))
+* [Page1.xaml.cs](./CS/WpfApplication1/Page1.xaml.cs) (VB: [Page1.xaml](./VB/WpfApplication1/Page1.xaml))
+* [Page2.xaml](./CS/WpfApplication1/Page2.xaml) (VB: [Page2.xaml](./VB/WpfApplication1/Page2.xaml))
+* [Page2.xaml.cs](./CS/WpfApplication1/Page2.xaml.cs) (VB: [Page2.xaml](./VB/WpfApplication1/Page2.xaml))
+* [Page3.xaml](./CS/WpfApplication1/Page3.xaml) (VB: [Page3.xaml](./VB/WpfApplication1/Page3.xaml))
+* [Page3.xaml.cs](./CS/WpfApplication1/Page3.xaml.cs) (VB: [Page3.xaml](./VB/WpfApplication1/Page3.xaml))
+<!-- default file list end -->
 # How to implement WPF navigation using RibbonControl
 
 
